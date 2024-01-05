@@ -1,6 +1,6 @@
 # Hi there! :wave:
 
-My name is Shobitha Cherian (she/her). I'm a Computer Science and Public Policy ([MSCAPP](https://capp.uchicago.edu)) student at the University of Chicago. I'm originally from Bangalore, India. Previously, I studied Economics, Mathematics and Statistics at Christ University, Bangalore. 
+My name is Shobitha Cherian (she/her). I currently work in software development, building websites and data products using Django, JavaScript and HTML + CSS. I'm a Computer Science and Public Policy ([MSCAPP](https://capp.uchicago.edu)) graduate from the University of Chicago. I'm originally from Bangalore, India. Previously, I studied Economics, Mathematics and Statistics at Christ University, Bangalore. 
 
 ## Places I've worked at in the past
 
