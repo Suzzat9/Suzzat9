@@ -18,7 +18,7 @@ My name is Shobitha Cherian (she/her). I currently work in software development,
 
 - Python 
 - JavaScript
-- R
+- SQL
 
 ## What I'm currently learning..
 - Golang
